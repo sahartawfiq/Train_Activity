@@ -1,0 +1,31 @@
+
+h1,
+h2{
+	text-align: center;
+}
+h3{
+	background-color: #357ec7;
+	color: white;
+	padding: 5px;
+}
+.heading{
+	background-color: #357ec7;
+}
+/*.add{
+	background-color: blue;
+	color: white;
+}*/
+/*table{
+	width: 100%;
+	border-collapse: collapse;
+}*/
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    margin-right: 50px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
